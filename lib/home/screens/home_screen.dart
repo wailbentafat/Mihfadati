@@ -57,7 +57,7 @@ class HomeScreen extends StatelessWidget {
                   Icons.emergency_outlined,
                   color: state == 3 ? Colors.black : Colors.grey,
                 ),
-                label: 'Profile',
+                label: 'Emergency',
               ),
             ],
           );
